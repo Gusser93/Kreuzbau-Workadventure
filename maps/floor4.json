@@ -347,6 +347,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Gruppentisch_1"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -364,6 +369,11 @@
          "name":"Gruppentisch2",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Gruppentisch_2"
+                }, 
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
@@ -383,6 +393,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Gruppentisch_3"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -400,6 +415,11 @@
          "name":"Gruppentisch4",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Gruppentisch_4"
+                }, 
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
@@ -439,7 +459,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.5
+                 "value":0.05
                 }, 
                 {
                  "name":"playAudio",
